@@ -28,7 +28,7 @@ and **Streamlit**. Containerized and deployed to Hugging Face Spaces.
 https://github.com/user-attachments/assets/a4607370-360f-432a-8dec-4b19ca6e4d99
 
 > Upload PDFs → ask questions → get grounded answers with the source page region highlighted.
-> Try it live at **[sharath32-pdf-chatbot-rag.hf.space](https://sharath32-pdf-chatbot-rag.hf.space)**.
+
 
 ---
 
