@@ -19,7 +19,7 @@ highlighting** on the original page.
 Built with **LangChain**, **Google Gemini**, **FAISS**, **PyMuPDF**, **Tesseract OCR**,
 and **Streamlit**. Containerized and deployed to Hugging Face Spaces.
 
-**🔗 Live demo:** https://sharath32-pdf-chatbot-rag.hf.space
+
 
 ---
 
