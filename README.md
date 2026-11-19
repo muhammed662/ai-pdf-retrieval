@@ -208,6 +208,3 @@ so OCR works out of the box.
 
 ---
 
-## License
-
-Released under the [MIT License](LICENSE).
