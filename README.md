@@ -9,7 +9,7 @@ pinned: false
 
 ---
 
-# 📚 PDF Chat Assistant — RAG over your documents
+# 📚 AI Pdf Retrieval — RAG over your documents
 
 A production-style **Retrieval-Augmented Generation (RAG)** chatbot that answers
 questions grounded in your own PDF documents — including **scanned PDFs** via OCR —
